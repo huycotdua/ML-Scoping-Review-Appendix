@@ -1,10 +1,10 @@
 # ML-Scoping-Review-Appendix
 Supplementary materials and appendices for a scoping review on Machine Learning applications.
 
-# Supplementary Materials: Machine Learning Scoping Review (N = 41)
+# Supplementary Materials: Machine Learning Scoping Review (N = 39)
 
 ## Project Overview
-This repository hosts the data appendix tables for my thesis, which presents a scoping review of **41 included studies** utilizing Machine Learning (ML) methodologies. 
+This repository hosts the data appendix tables for my thesis, which presents a scoping review of **39 included studies** utilizing Machine Learning (ML) methodologies. 
 
 These tables provide detailed insights into the study characteristics, clinical populations, model structures, and features analyzed in the review.
 
